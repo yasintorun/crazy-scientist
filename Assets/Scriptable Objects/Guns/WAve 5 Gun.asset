@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b48b807d4fdcf42a55d88b5e8f712c, type: 3}
+  m_Name: WAve 5 Gun
+  m_EditorClassIdentifier: 
+  shotCount: 10
+  shotWaitTime: 0.25
+  damage: 30
+  bulletSpeed: 1500
+  lifeTime: 0
+  bullet: {fileID: 8935479282558098008, guid: 81c15eeb2df103a4f901bf5d12d7d91c, type: 3}
+  shotEffect: {fileID: 3999856598516861975, guid: cd8f8012ef7feea4ea150cb2d9150a61, type: 3}

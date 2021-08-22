@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b48b807d4fdcf42a55d88b5e8f712c, type: 3}
+  m_Name: Wave3 Gun
+  m_EditorClassIdentifier: 
+  shotCount: 3
+  shotWaitTime: 0.3
+  damage: 30
+  bulletSpeed: 1200
+  lifeTime: 0
+  bullet: {fileID: 8935479282558098008, guid: 2297777138d00e4489a95136606a5ed6, type: 3}
+  shotEffect: {fileID: 3999856598516861975, guid: 63e0dc0a1d11c734b99f0cffb7ed0cc6, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 062b54a97a3e03e4b85608269ae68a43, type: 3}
+  m_Name: wave 4
+  m_EditorClassIdentifier: 
+  gun: {fileID: 11400000, guid: 6cbd6275ca0a43642b40820d86f23665, type: 2}
+  maxEnemy: 10
+  maxKill: 50
+  spawnWaitTime: 1
+  playerHpRegeneration: 40
+  enemyHpRegeneration: 0
+  enemies:
+  - {fileID: 11400000, guid: 3491b3d951196d04d9e42235c92485a9, type: 2}
+  - {fileID: 11400000, guid: c221d311866944f41bcbcafea67cea16, type: 2}
+  - {fileID: 11400000, guid: fce8f899b90c4af439c846a7d45ec1c7, type: 2}
+  - {fileID: 11400000, guid: fce8f899b90c4af439c846a7d45ec1c7, type: 2}
+  - {fileID: 11400000, guid: c221d311866944f41bcbcafea67cea16, type: 2}
+  - {fileID: 11400000, guid: c221d311866944f41bcbcafea67cea16, type: 2}
+  - {fileID: 11400000, guid: 8e45df36a0d65a94ba66aa95baaff9fc, type: 2}

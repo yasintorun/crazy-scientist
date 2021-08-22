@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34b48b807d4fdcf42a55d88b5e8f712c, type: 3}
+  m_Name: Basic Gun
+  m_EditorClassIdentifier: 
+  shotCount: 1
+  shotWaitTime: 0.2
+  damage: 20
+  bulletSpeed: 1000
+  lifeTime: 0
+  bullet: {fileID: 8935479282558098008, guid: f83da80d099bc5f47aaeeef6633ec112, type: 3}
+  shotEffect: {fileID: 3999856598516861975, guid: 013dc027072ca8e46806c1870ec71386, type: 3}
